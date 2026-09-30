@@ -394,7 +394,7 @@ gold.weather_summary
 
 <div align="center">
 
-<img src="image/image2.png" width="95%" alt="Flight Analytics Dashboard">
+<img src="images/image 2.png" width="95%" alt="Flight Analytics Dashboard">
 
 </div>
 
@@ -404,7 +404,7 @@ gold.weather_summary
 
 <div align="center">
 
-<img src="image/image3.png" width="95%" alt="Weather Analytics Dashboard">
+<img src="images/image 3.png" width="95%" alt="Weather Analytics Dashboard">
 
 </div>
 
@@ -414,7 +414,7 @@ gold.weather_summary
 
 <div align="center">
 
-<img src="image/image4.png" width="95%" alt="Geography and Airport Analytics Dashboard">
+<img src="images/image 4.png" width="95%" alt="Geography and Airport Analytics Dashboard">
 
 </div>
 
