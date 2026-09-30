@@ -384,7 +384,7 @@ gold.weather_summary
 
 <div align="center">
 
-<img src="image/image1.png" width="95%" alt="Flight Weather Dashboard Overview">
+<img src="images/image1.png" width="95%" alt="Flight Weather Dashboard Overview">
 
 </div>
 
